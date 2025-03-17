@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Codewars](https://github.r2v.ch/codewars?user=little-star45&name=true&top_languages=true&stroke=%23b362ff&theme=#)](https://www.codewars.com/users/little-star45)
+[![Codewars](https://github.r2v.ch/codewars?user=little-star45&name=true&top_languages=true&stroke=%23b362ff&theme=nord)](https://www.codewars.com/users/little-star45)
 
-[![](https://leetcard.jacoblin.cool/little-star45?ext=heatmap&contest)](https://leetcode.com/little-star45)
+[![](https://leetcard.jacoblin.cool/little-star45?ext=heatmap)](https://leetcode.com/little-star45)
