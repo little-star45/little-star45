@@ -63,7 +63,7 @@
   <tr>
     <td>Simple MP4 video cutting tool. <br> <b>Code:</b> <a href="https://github.com/little-star45/mp4_cutter_pyqt">mp4_cutter_pyqt</a></td>
     <td>Weather app using IMGW data. <br> <b>Code:</b> <a href="https://github.com/little-star45/weather-app-simply-tkinter-imgw">weather-app-simply-tkinter-imgw</a></td>
-    <td>Interactive exploration of Polish Balancing Market. <br> <b>Code:</b> <a href="https://github.com/little-star45/balancing-market-app-web">balancing-market-app-web</a></td>
+    <td>Interactive exploration of Polish Balancing Market. <br> <b>Code:</b> <a href="https://github.com/little-star45/balancing-market-app-web">balancing-market-app-web  <br> <b>Website:</b> <a href="(https://little-star45.github.io/balancing-market-app-web/)">Balancing Market App Website</a></td>
   </tr>
 </table>
 
