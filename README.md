@@ -37,7 +37,7 @@ Please feel free to visit my portfolio :) [Portfolio Link](https://domanska-port
 
 | **Mail** | **Location** | **LinkedIn** | **LeetCode** | **Codewars** | **GitHub** |
 |----------|--------------|--------------|--------------|--------------|------------|
-| mymail@example.com | Kraków, Poland | [patrycja-domańska](https://www.linkedin.com/in/patrycja-doma%C5%84ska-a45bb4227) | [user3753Jj](https://leetcode.com/u/user3753Jj/) | [little-star45](https://www.codewars.com/users/little-star45) | [little-star45](https://github.com/little-star45) |
+| mailto:domanska.dev@gmail.com | Kraków, Poland | [patrycja-domańska](https://www.linkedin.com/in/patrycja-doma%C5%84ska-a45bb4227) | [user3753Jj](https://leetcode.com/u/user3753Jj/) | [little-star45](https://www.codewars.com/users/little-star45) | [little-star45](https://github.com/little-star45) |
 
 ---
 ## 🛠️ Skills & Tech
